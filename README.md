@@ -1,1 +1,14 @@
-# docs_Dangjin
+# 1. 마을 활동가를 위한 chatGPT 활용 
+  * 특이점과 AI 의식 논쟁의 시작
+  * 마을 활동가와 ChatGPT
+      * 왜 chatGPT에 열광하는가?
+      * GPT의 능력은 어느 정도인가?
+      * 마을 활동가와 chatGPT 만남
+          * 강연 요청서 기반 사업 계획서
+          * 초안 기반 사업 계획서
+      * 파워포인트 만들기
+  * 스마트폰에서 ChatGPT 이용하기
+      * 앱 설치
+      * 음성 대화가 가능한 비서
+  * 결론
+![image](https://github.com/Emmett6401/docs_Dangjin/assets/46923369/d7418507-f92c-4d47-98d4-c09fb8c26d86)
