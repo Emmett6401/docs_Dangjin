@@ -18,3 +18,4 @@
 # 2. 사회적 고립 및 고독사 예방을 위한 방향제시 연구
   * 연구 수행 계획서 
 ![image](https://github.com/Emmett6401/docs_Dangjin/blob/main/img/%EC%82%AC%ED%9A%8C%EC%A0%81%EA%B3%A0%EB%A6%BD%EA%B3%A0%EB%8F%85%EC%82%AC.png)
+![doc] (https://docs.google.com/presentation/d/1Gfpc7JFDdlFIHYzdO4sBfYkSFfDMC9AO/edit?usp=sharing&ouid=116222283888235001898&rtpof=true&sd=true)
