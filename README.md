@@ -14,4 +14,4 @@
 ![image](https://github.com/Emmett6401/docs_Dangjin/blob/main/img/%EB%A7%88%EC%9D%84%ED%99%9C%EB%8F%99%EA%B0%80%EB%A5%BC%EC%9C%84%ED%95%9C.png)
 # 2. 사회적 고립 및 고독사 예방을 위한 방향제시 연구
   * 특이점과 AI 의식 논쟁의 시작
-![image](https://github.com/Emmett6401/docs_Dangjin/blob/main/img/%EB%A7%88%EC%9D%84%ED%99%9C%EB%8F%99%EA%B0%80%EB%A5%BC%EC%9C%84%ED%95%9C.png)
+![image](https://github.com/Emmett6401/docs_Dangjin/blob/main/img/%EC%82%AC%ED%9A%8C%EC%A0%81%EA%B3%A0%EB%A6%BD%EA%B3%A0%EB%8F%85%EC%82%AC.png)
