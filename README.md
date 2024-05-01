@@ -11,4 +11,4 @@
       * 앱 설치
       * 음성 대화가 가능한 비서
   * 결론
-![image](https://github.com/Emmett6401/docs_Dangjin/assets/46923369/d7418507-f92c-4d47-98d4-c09fb8c26d86)
+![image](https://github.com/Emmett6401/docs_Dangjin/blob/main/img/%EB%A7%88%EC%9D%84%ED%99%9C%EB%8F%99%EA%B0%80%EB%A5%BC%EC%9C%84%ED%95%9C.png)
